@@ -4,7 +4,7 @@ services:
     plan: free
     autoDeploy: false
     runtime: docker
-    repo: https://github.com/HiEventsDev/hi.events-render.com.git
+    repo: https://github.com/austin92jus/Hi.Events.git
     envVars:
       - key: PORT
         value: 80
